@@ -1,4 +1,5 @@
 #Sorting_Station
+<img width="1256" height="635" alt="Factory IO_2025_12_29_12_37_57" src="https://github.com/user-attachments/assets/e7566337-703f-45c1-aa13-8fb9592427aa" />
 
 ### 📝 Opis projektu
 System sterowania linia sortujaca produkty
