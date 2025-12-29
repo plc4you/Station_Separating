@@ -25,4 +25,8 @@ lub
 6. Otwórz w TIA Portal.
 7. Separating Station.factoryio otworz w Factor I/0
 ### 👤 Autor
-*   **Marczyk Ireneusz** - https://github.com/iron09bymird
+*   **Marczyk Ireneusz** - https://github.com/plc4you
+
+
+
+
